@@ -1,19 +1,4 @@
-name: Lets Try This
-favicon: null
-layout_spectrum: 0.22473208094015718
 typography_spectrum: 0.0740405994001776
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#17BEBB'
@@ -25,4 +10,20 @@ color:
   lightness: 0.7465528680477291
   saturation: 0.5781367029994726
   rhythmicContrast: 0.7991345471236855
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.22473208094015718
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Lets Try This
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: No. 2
 purpose: []
